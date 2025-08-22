@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Dev Verma**
 
-🎓 **BCA Graduate** | 💻 **Aspiring Full-Stack Developer & AI/ML Enthusiast**
+📘 **MCA Student**  | 🎓 **BCA Graduate**  | 💻 **Aspiring Full-Stack Developer & AI/ML Enthusiast**
 
 ---
 
