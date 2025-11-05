@@ -21,6 +21,12 @@
 
 ---
 
+### 🤝 Collaborated Projects
+
+- KARMA Worldwide Logistics LLP (https://github.com/karma2025logistic/karma-logistics-website) — Collaborated as a Developer 
+
+---
+
 ## 🌱 Currently Exploring  
 - Advanced **Python for Data Science & ML**  
 - **Full-Stack Development** with modern frameworks  
